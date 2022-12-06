@@ -2,7 +2,7 @@
   
 - 🌱 I’m currently learning more about javascript to upgrade my dev skills.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I'm a math teacher!
+- ⚡ Fun fact: I'm also a math teacher!
 
 <div align="center">
   <a href="https://github.com/aurelio-sc">
