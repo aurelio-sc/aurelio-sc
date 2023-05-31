@@ -1,7 +1,4 @@
 ### Hi there! I'm Aurélio Soares! 👋
-  
-- 🌱 I’m currently learning more about javascript to upgrade my dev skills.
-- 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm also a math teacher!
   
  ##
